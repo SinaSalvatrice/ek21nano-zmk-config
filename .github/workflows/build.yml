@@ -1,4 +1,3 @@
-﻿$wf = @'
 name: Build ZMK firmware
 
 on:
@@ -25,6 +24,4 @@ jobs:
           path: |
             *.uf2
             *.hex
-'@
-
 $wf.Length
