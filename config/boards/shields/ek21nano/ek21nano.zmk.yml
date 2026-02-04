@@ -1,0 +1,7 @@
+﻿file_format: "1"
+id: ek21nano
+name: EK21 Nano Numpad
+type: shield
+requires: [pro_micro]
+features:
+  - keys

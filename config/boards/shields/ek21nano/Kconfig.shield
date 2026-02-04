@@ -1,0 +1,2 @@
+﻿config SHIELD_EK21NANO
+    def_bool $(shields_list_contains,ek21nano)
